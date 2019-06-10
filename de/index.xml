@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codekitchen.at</title>
+    <link>https://www.codekitchen.at/de/</link>
+    <description>Recent content on codekitchen.at</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://www.codekitchen.at/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://www.codekitchen.at/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.codekitchen.at/de/contact/</guid>
+      <description>Markus Schmidinger BSc
+Parzhofstraße 24 4040 Linz Austria +43 660 3965946
+markus.schmidinger@codekitchen.at PGP ID: 0x7C77FD907F6D7CCC VCard</description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>https://www.codekitchen.at/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.codekitchen.at/de/about/</guid>
+      <description>Hi, mein Name ist Markus Schmidinger &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

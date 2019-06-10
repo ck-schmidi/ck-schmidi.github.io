@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codekitchen.at</title>
+    <link>https://codekitchen.at/</link>
+    <description>Recent content on codekitchen.at</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://codekitchen.at/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://codekitchen.at/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codekitchen.at/about/</guid>
+      <description>Hi, my name is Markus Schmidinger. I&amp;rsquo;m a Freelance Polyglot Software Engineer with a focus in the Web Area.
+The last years i spent a lot of time with Backend Development with Golang and the Cloud Native Stack. I also have experience developing Embedded Systems using C++/Qt and the Yocto Buildsystem.
+My current focus is on functional languages for Web Development like Elixir and Elm.
+If you are interested to collaborate with me, feel free to contact me.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://codekitchen.at/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codekitchen.at/contact/</guid>
+      <description>Markus Schmidinger BSc
+Parzhofstraße 24 4040 Linz Austria +43 660 3965946
+markus.schmidinger@codekitchen.at PGP ID: 0x7C77FD907F6D7CCC VCard</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://codekitchen.at/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codekitchen.at/contact/</guid>
+      <description>Markus Schmidinger BSc
+Parzhofstraße 24 4040 Linz Austria +43 660 3965946
+markus.schmidinger@codekitchen.at PGP ID: 0x7C77FD907F6D7CCC VCard</description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>https://codekitchen.at/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codekitchen.at/about/</guid>
+      <description>Hi, mein Name ist Markus Schmidinger &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=ISO-8859-1:Schmidinger;Markus;;BSc;
+FN;CHARSET=ISO-8859-1:BSc Markus Schmidinger
+ORG;CHARSET=ISO-8859-1:codekitchen.at
+URL;type=WORK;CHARSET=ISO-8859-1:https://codekitchen.at
+TEL;type=WORK;type=VOICE:+436603965946
+ADR;CHARSET=ISO-8859-1;type=WORK;type=pref:;;Parzhofstraße 24;Linz;;4040;Austria
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE;CHARSET=ISO-8859-1:Parzhofstraße 24=0D=0A=
+4040 Linz Austria
+END:VCARD
